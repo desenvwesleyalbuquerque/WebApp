@@ -14,9 +14,18 @@ import {ButtonModule} from 'primeng/button';
 import {EditorModule} from 'primeng/editor';
 import { FormsModule } from '@angular/forms';
 
+import { UsuarioComponent } from './paginas/gerenciador/usuario/usuario.component';
+import { DashboardComponent } from './paginas/home/dashboard/dashboard.component';
+import { LoginComponent } from './paginas/login/login.component';
+import { MensagemComponent } from './paginas/gerenciador/mensagem/mensagem.component';
+
 @NgModule({
   declarations: [
     AppComponent,
+    MensagemComponent,
+    UsuarioComponent,
+    DashboardComponent,
+    LoginComponent,
   ],
   imports: [
     AppRoutingModule,
