@@ -26,7 +26,7 @@
               "src/styles.css",
          
               "src/app/template/vendor/fontawesome-free/css/all.min.css",
-              "src/app/template/css/sb-admin-2.min.css",
+         
               
 
               "node_modules/bootstrap/dist/css/bootstrap.css",
@@ -43,12 +43,7 @@
 
               "src/app/template/vendor/jquery/jquery.min.js",
               "src/app/template/vendor/bootstrap/js/bootstrap.bundle.min.js",
-              "src/app/template/vendor/jquery-easing/jquery.easing.min.js",
-              "src/app/template/js/sb-admin-2.js",
-              "src/app/template/vendor/chart.js/Chart.min.js",
-              "src/app/template/js/demo/chart-area-demo.js",
-              "src/app/template/js/demo/chart-pie-demo.js"
-             
+              "src/app/template/vendor/jquery-easing/jquery.easing.min.js"             
             ]
           },
           "configurations": {

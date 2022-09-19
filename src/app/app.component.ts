@@ -15,8 +15,7 @@ export class AppComponent implements OnInit {
   constructor(private primengConfig: PrimeNGConfig) {}
 
   ngOnInit() {
-      this.primengConfig.ripple = true;
-      this.text1 ='<div>Hello World!</div><div>PrimeNG <b>Editor</b> Rocks</div><div><br></div>';
+      this.primengConfig.ripple = true;  
   }
 
 }
